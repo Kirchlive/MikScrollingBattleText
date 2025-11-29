@@ -1,5 +1,3 @@
-Mik's Scrolling Battle Text Readme body { font-size : 10pt; font-family : verdana,arial,helvetica.sans-serif; } hr { color : #e0e0e0; } a:link { color : #000060; text-decoration : none; } a:visited { color : #000060; text-decoration : none; } a:hover { text-decoration : underline; } div#HeaderBlock {background-color : ivory; border : solid #000050 1px; padding : 1ex; margin-top : 2em; margin-bottom : 2em; } div.TOCTitle { font-weight : bold; font-size : 12pt; } div.TOC { margin : 2ex 1ex 4em 2ex; } div.TOCSection { margin : 1ex 1ex 2ex 2ex; } div.SectionTitle { margin-top : 6ex; font-weight : bold; font-size : 14pt; } div.SectionBody { margin-top : 2ex; margin-left : 2ex; margin-bottom : 2em; } div.SubsectionTitle { font-weight : bold; } div.SubsectionBody { margin : 2ex 10ex 2ex 5ex; } div.Syntax { background-color : #e0e0e0; } td.ParameterName { font-size : 10pt; background-color : #e0e0e0; vertical-align : top; } td.ParameterDesc { font-size : 10pt; background-color : #e0e0e0; text-align : left; }
-
 **Mik's Scrolling Battle Text Readme**
 
 Version: 3.01  
